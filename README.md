@@ -64,8 +64,8 @@ When I started I constantly came across topics and terms that where discussed as
 * **IDE:**
 * **VanillaJS:** *like vanilla is the basic flavour of icecream VanillaJS refers to Javascript without any framework. The same is true for VanillaPHP and so on ...*
 * **React/Angular/Vue/Svelte/jQuery:** are Javascript frameworks
-* **DOM:**
-* **Framework:**
-* **Git:** *is a tool to manage versions of your code efficently. So instead of "keeping a backup" by copying your folder to another location (we've all done that) it keeps all your versions hidden inside your main directory but you can access all prior commits at any moment.*
+* **DOM:** DOM describes the tree-like structure of your HTML-Code with parent and child elements and different "branches". Very often its used synonymously with your HTML-document.
+* **Framework:** **
+* **Git:** *is a tool to manage versions of your code efficently. So instead of "keeping a backup" by copying your folder to another location (we've all done that) it keeps all your versions hidden inside your main directory as **commits**. You can access all your prior commits at any moment and switch back and forth between them.*
 * **Commit:** *In a commit you save the current state of your code project, so you can come back later in case you mess something up.* 
-* **Github:**
+* **Github:** *is an online portal that is thightly integrated with Git. It helps with distributing, sharing and cooperating on code projects.*
