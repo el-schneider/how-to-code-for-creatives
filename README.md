@@ -1,9 +1,9 @@
 # How to code (for creatives)
-Updated: 31-10-2020
+Updated: 02-11-2020
 
 ## The code editor to start with
 ### For web/javascript projects
-The best code editor for web and javascript-projects right now is **Visual Studio Code**. Its available on all systems, its *open source* and *free* and its the *industry standard.* Get it here: [VSCode]([https://link](https://code.visualstudio.com/))
+The best code editor for web and javascript-projects right now is **Visual Studio Code**. Its available on all systems, its *open source* and *free* and its the *industry standard.* Get it here: [VSCode](https://code.visualstudio.com/)
 ### For processing
 I suggest using the [processing IDE](https://processing.org/download/) (Integrated Development Environment, say the "inbuilt" editor) if you are just starting out. However, if you like to have more control over your editor and use awesome features like [MultiCursor](https://code.visualstudio.com/docs/editor/codebasics) than you can install the extension **Processing Language** to use **VSCode** for your processing project.
 
