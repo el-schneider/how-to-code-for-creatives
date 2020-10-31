@@ -58,14 +58,14 @@ For more advanced use or specific code projects I also use:
 When I started I constantly came across topics and terms that where discussed as if everyone should know what it's all about and I had no idea what they where, so I will try my best to explain some concepts you will stumble across frequently as concise as possible:
 * **Node:** *is a runtime-environment that lets you run **Javascript outside of a browser*** 
 * **NPM/Yarn:** *Both are **package managers** that allow you the install bits of reusable Javascript-Programms*
-* **Linter:** 
+* **Linter:** *is software that analysis your code and gives you feedback on errors, bugs, stylistic mistakes and suspicious constructs. It helps you write more concise and less erroneous code and can be applied automatically within VSCode with Extensions.*
 * **Snippets:** *one type of code suggestion you can get with Intellisense*
 * **Intellisense:** *by pressing `ctrl (cmd) + space` in VSCode you get code suggestions based on your context*
-* **IDE:**
+* **IDE:** *a set of programms that help you write code.*
 * **VanillaJS:** *like vanilla is the basic flavour of icecream VanillaJS refers to Javascript without any framework. The same is true for VanillaPHP and so on ...*
-* **React/Angular/Vue/Svelte/jQuery:** are Javascript frameworks
-* **DOM:** DOM describes the tree-like structure of your HTML-Code with parent and child elements and different "branches". Very often its used synonymously with your HTML-document.
-* **Framework:** **
+* **React/Angular/Vue/Svelte/jQuery:** *are Javascript frameworks*
+* **DOM:** *DOM describes the tree-like structure of your HTML-Code with parent and child elements and different "branches". Very often its used synonymously with your HTML-document.*
+* **Framework:** *a framework abstracts the functionality of common tasks and concepts and aims to suit the needs of a specific project better then the vanilla programming language in which is was written.*
 * **Git:** *is a tool to manage versions of your code efficently. So instead of "keeping a backup" by copying your folder to another location (we've all done that) it keeps all your versions hidden inside your main directory as **commits**. You can access all your prior commits at any moment and switch back and forth between them.*
 * **Commit:** *In a commit you save the current state of your code project, so you can come back later in case you mess something up.* 
 * **Github:** *is an online portal that is thightly integrated with Git. It helps with distributing, sharing and cooperating on code projects.*
