@@ -1,5 +1,5 @@
 # How to code (for creatives)
-Updated: 31.10.2020
+Updated: 31-10-2020
 
 ## The code editor to start with
 ### For web/javascript projects
