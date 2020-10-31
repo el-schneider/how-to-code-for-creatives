@@ -57,7 +57,7 @@ For more advanced use or specific code projects I also use:
 ## What does it mean?
 When I started I constantly came across topics and terms that where discussed as if everyone should know what it's all about and I had no idea what they where, so I will try my best to explain some concepts you will stumble across frequently as concise as possible:
 * **Node:** *is a runtime-environment that lets you run **Javascript outside of a browser*** 
-* **NPM/Yarn:** *Both are **package managers** that allow you the install bits of reusable Javascript-Programms*
+* **NPM/Yarn:** *Both are **package managers** that allow you the download bits of reusable Javascript-Programms*
 * **Linter:** *is software that analysis your code and gives you feedback on errors, bugs, stylistic mistakes and suspicious constructs. It helps you write more concise and less erroneous code and can be applied automatically within VSCode with Extensions.*
 * **Snippets:** *one type of code suggestion you can get with Intellisense*
 * **Intellisense:** *by pressing `ctrl (cmd) + space` in VSCode you get code suggestions based on your context*
