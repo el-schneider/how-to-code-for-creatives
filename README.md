@@ -1,5 +1,5 @@
 # How to code (for creatives)
-Updated: 02-11-2020
+Updated: 02-28-2020
 
 ## The code editor to start with
 ### For web/javascript projects
@@ -33,6 +33,7 @@ If you want to start with **web-programming** try:
 ## VSCode-Extensions to ease the pain
 One of the reasons why VSCode became so popular so quickly because of its simple extensibility. You can easily search for and install new  extensions by using the shortcut `ctrl (cmd) + shift + x` and searching for the extensions name:
 Here is a list of extensions I can recommend for everyone and every project:
+* Tabnine Autocomplete AI (insane autocompletion)
 * Auto Rename Tag
 * Bracket Pair Colorizer
 * Live Server
@@ -59,7 +60,7 @@ When I started I constantly came across topics and terms that where discussed as
 * **Node:** *is a runtime-environment that lets you run **Javascript outside of a browser*** 
 * **NPM/Yarn:** *Both are **package managers** that allow you the download bits of reusable Javascript-Programms*
 * **Linter:** *is software that analysis your code and gives you feedback on errors, bugs, stylistic mistakes and suspicious constructs. It helps you write more concise and less erroneous code and can be applied automatically within VSCode with Extensions.*
-* **Snippets:** *one type of code suggestion you can get with Intellisense*
+* **Snippets:** *tiny reusable bits of code you can get with Intellisense*
 * **Intellisense:** *by pressing `ctrl (cmd) + space` in VSCode you get code suggestions based on your context*
 * **IDE:** *a set of programms that help you write code.*
 * **VanillaJS:** *like vanilla is the basic flavour of icecream VanillaJS refers to Javascript without any framework. The same is true for VanillaPHP and so on ...*
